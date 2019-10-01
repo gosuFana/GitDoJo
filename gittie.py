@@ -12,3 +12,7 @@ def joke():
 
 def shout():
     print("WHAT IS IT?!")
+    print("AAAAAAaaHHH!")
+
+introduce()
+
